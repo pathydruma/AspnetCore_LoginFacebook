@@ -1,0 +1,11 @@
+D:\ProjetosEstudo\AspnetCore_LoginFacebook\AspnetCore_LoginFacebook\bin\Debug\netcoreapp2.0\AspnetCore_LoginFacebook.deps.json
+D:\ProjetosEstudo\AspnetCore_LoginFacebook\AspnetCore_LoginFacebook\bin\Debug\netcoreapp2.0\AspnetCore_LoginFacebook.runtimeconfig.json
+D:\ProjetosEstudo\AspnetCore_LoginFacebook\AspnetCore_LoginFacebook\bin\Debug\netcoreapp2.0\AspnetCore_LoginFacebook.runtimeconfig.dev.json
+D:\ProjetosEstudo\AspnetCore_LoginFacebook\AspnetCore_LoginFacebook\bin\Debug\netcoreapp2.0\AspnetCore_LoginFacebook.dll
+D:\ProjetosEstudo\AspnetCore_LoginFacebook\AspnetCore_LoginFacebook\bin\Debug\netcoreapp2.0\AspnetCore_LoginFacebook.pdb
+D:\ProjetosEstudo\AspnetCore_LoginFacebook\AspnetCore_LoginFacebook\obj\Debug\netcoreapp2.0\AspnetCore_LoginFacebook.csproj.CoreCompileInputs.cache
+D:\ProjetosEstudo\AspnetCore_LoginFacebook\AspnetCore_LoginFacebook\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+D:\ProjetosEstudo\AspnetCore_LoginFacebook\AspnetCore_LoginFacebook\obj\Debug\netcoreapp2.0\AspnetCore_LoginFacebook.AssemblyInfoInputs.cache
+D:\ProjetosEstudo\AspnetCore_LoginFacebook\AspnetCore_LoginFacebook\obj\Debug\netcoreapp2.0\AspnetCore_LoginFacebook.AssemblyInfo.cs
+D:\ProjetosEstudo\AspnetCore_LoginFacebook\AspnetCore_LoginFacebook\obj\Debug\netcoreapp2.0\AspnetCore_LoginFacebook.dll
+D:\ProjetosEstudo\AspnetCore_LoginFacebook\AspnetCore_LoginFacebook\obj\Debug\netcoreapp2.0\AspnetCore_LoginFacebook.pdb
